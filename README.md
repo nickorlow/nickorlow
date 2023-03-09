@@ -1,4 +1,4 @@
-Hi! I'm Nicholas Orlowsky.
+👋 Hi! I'm Nicholas Orlowsky.
 
 I'm Current Computer Science student at The University of Texas at Austin.
 
