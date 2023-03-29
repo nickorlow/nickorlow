@@ -1,6 +1,6 @@
 👋 Hi! I'm Nicholas Orlowsky.
 
-I'm Current Computer Science student at The University of Texas at Austin.
+I'm a current computer science student at The University of Texas at Austin.
 
 I'm very interested in infra and backend engineering.
 
