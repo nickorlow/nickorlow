@@ -19,6 +19,3 @@ Email             - [nickorlow@nickorlow.com](mailto:nickorlow@nickorlow.com)
 Resume            - https://github.com/nickorlow/resume
 
 NWS Website       - https://nws.nickorlow.com - My own (mini-)cloud service!
-
----
-![Github Statistics](https://raw.githubusercontent.com/nickorlow/github-stats/master/generated/overview.svg)
