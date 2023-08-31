@@ -16,6 +16,6 @@ Personal Website  - https://nickorlow.com - Read about my projects and me!
 
 Email             - [nickorlow@nickorlow.com](mailto:nickorlow@nickorlow.com)
 
-Resume            - https://github.com/nickorlow/resume
+Resume            - [https://github.com/nickorlow/resume/releases/download/latest/resume-nickorlow.pdf](https://github.com/nickorlow/resume/releases/download/latest/resume-nickorlow.pdf)
 
 NWS Website       - https://nws.nickorlow.com - My own (mini-)cloud service!
